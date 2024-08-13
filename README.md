@@ -115,7 +115,7 @@ Create a virtual called `reactionCount` that retrieves the length of the thought
 
 **Schema Settings**:
 
-This will not be a model, but rather will be used as the `reaction` field's subdocument schema in the `Thought` model.
+This is not a model, but rather used as the `reaction` field's subdocument schema in the `Thought` model.
 
 ### API Routes
 
